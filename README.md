@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akilesh-programmer&theme=tokyo-night&area=true" alt="Akilesh's Contribution Graph" />
+  <img src="https://github-contributions-api.deno.dev/Akilesh-programmer.svg" />
 </p>
 
 ---
@@ -46,14 +46,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <!-- Cloud -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akilesh-programmer/Akilesh-programmer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
