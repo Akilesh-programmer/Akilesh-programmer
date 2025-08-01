@@ -14,9 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Akilesh-programmer&show_icons=true&theme=tokyonight&hide_title=false" alt="Akilesh's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilesh-programmer&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-contributions-api.deno.dev/Akilesh-programmer.svg" />
