@@ -19,11 +19,7 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akilesh-programmer&theme=tokyo-night&area=true" alt="Akilesh's Contribution Graph" />
-=======
-  <img src="https://raw.githubusercontent.com/Akilesh-programmer/Akilesh-programmer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
->>>>>>> a082a32c391b73d47f79b75ff129e480345ccc9c
 </p>
 
 ---
