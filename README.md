@@ -18,6 +18,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilesh-programmer&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akilesh-programmer&theme=tokyo-night&area=true" alt="Akilesh's Contribution Graph" />
+</p>
+
 ---
 
 ### 🛠️ Skills & Tech Stack
@@ -46,7 +50,14 @@
 
 ---
 
-<!-- Connect with me -->
+### 🐍 GitHub Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akilesh-programmer/Akilesh-programmer/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="center">
