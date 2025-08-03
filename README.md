@@ -10,10 +10,22 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akilesh-programmer&show_icons=true&theme=tokyonight&hide_title=false" alt="Akilesh's GitHub Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Akilesh-programmer&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilesh-programmer&layout=compact&langs_count=8&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akilesh-programmer&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 <p align="center">
   <img src="https://github-contributions-api.deno.dev/Akilesh-programmer.svg" />
